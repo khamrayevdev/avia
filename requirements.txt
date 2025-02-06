@@ -1,4 +1,4 @@
 flask
-aiogram==3.17
-asyncio
-json
+aiogram
+gunicorn
+requests
