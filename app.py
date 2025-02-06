@@ -7,7 +7,7 @@ from aiogram.filters import Command
 from aiogram.client.session.aiohttp import AiohttpSession
 import logging
 
-TOKEN = "8004671583:AAF6vHfb19OZUmaIdMdzo3lSeaMfPuJ77Sc"
+TOKEN = "7647445900:AAEhvWkJvZCQ-uQwn9FWKLZQdVvQn3E46vM"
 ADMIN_ID = "6098825037"  # Admin Telegram ID
 app = Flask(__name__)
 
